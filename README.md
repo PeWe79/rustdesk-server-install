@@ -1,2 +1,2 @@
 ## Rustdesk-server Installation
-* This docker-compose.yml 
+This docker-compose.yml with latest rustdesk-server image version with mandatory key. So for force mandatory key needed and problem with "rustdesk connection error key mismatch", this docker-compose template will help.
